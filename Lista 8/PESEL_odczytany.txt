@@ -1,0 +1,30 @@
+Numer PESEL: 68271891013
+Data urodzenia: 18-7-2068	P³eæ: Mê¿czyzna
+
+Numer PESEL: 98640730779
+Data urodzenia: 07-4-2298	P³eæ: Mê¿czyzna
+
+Numer PESEL: 64673099079
+Data urodzenia: 30-7-2264	P³eæ: Mê¿czyzna
+
+Numer PESEL: 98611273287
+Data urodzenia: 12-1-2298	P³eæ: Kobieta
+
+Numer PESEL: 29232256829
+Data urodzenia: 22-3-2029	P³eæ: Kobieta
+
+Numer PESEL: 58900371926
+Data urodzenia: 03-10-1858	P³eæ: Kobieta
+
+Numer PESEL: 23682641886
+Data urodzenia: 26-8-2223	P³eæ: Kobieta
+
+Numer PESEL: 50311331357
+Data urodzenia: 13-11-2050	P³eæ: Mê¿czyzna
+
+Numer PESEL: 61711962524
+Data urodzenia: 19-11-2261	P³eæ: Kobieta
+
+Numer PESEL: 29113103279
+Data urodzenia: 31-11-2229	P³eæ: Mê¿czyzna
+
